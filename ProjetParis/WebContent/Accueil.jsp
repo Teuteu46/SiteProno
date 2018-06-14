@@ -84,7 +84,7 @@
       </div>
     </div>
     <div class="col-sm-4"> 
-      <div class="panel panel-success">
+      <div class="panel panel-primary">
         <div class="panel-heading">Spécial Coupe du Monde</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
         <div class="panel-footer">Pariez sur la prochaine victime de Ramos</div>
@@ -96,21 +96,21 @@
 <div class="container">    
   <div class="row">
     <div class="col-sm-4">
-      <div class="panel panel-primary">
+      <div class="panel panel-warning">
         <div class="panel-heading">Tour de France</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
         <div class="panel-footer">Qui a la meilleure pharmacie?</div>
       </div>
     </div>
     <div class="col-sm-4"> 
-      <div class="panel panel-primary">
+      <div class="panel panel-warning">
         <div class="panel-heading">L'avis de Francis Lalanne</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
         <div class="panel-footer">Un combiné inédit</div>
       </div>
     </div>
     <div class="col-sm-4"> 
-      <div class="panel panel-primary">
+      <div class="panel panel-warning">
         <div class="panel-heading">L'oeil de Nicolas Dieuze</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
         <div class="panel-footer">Spécialiste en relégations</div>
